@@ -1,3 +1,0 @@
-/home/elshahat/Documents/Tic-Tac-Toe/build/CMakeFiles/Tic-Tac-Toe.dir
-/home/elshahat/Documents/Tic-Tac-Toe/build/CMakeFiles/edit_cache.dir
-/home/elshahat/Documents/Tic-Tac-Toe/build/CMakeFiles/rebuild_cache.dir
