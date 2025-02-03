@@ -12,7 +12,6 @@ A simple, classic Tic Tac Toe game implemented in C++ using the minimax algorith
 - [Game Modes](#game-modes)
 - [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Overview
 
@@ -73,5 +72,5 @@ Contributions are welcome! To contribute:
     git push origin feature/your-feature-name
 
 ## License
-Distributed under the MIT License. See LICENSE for more details.
+Distributed under the MIT License. See License for more details.
 
