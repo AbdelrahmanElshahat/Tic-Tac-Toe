@@ -3,6 +3,9 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 A simple, classic Tic Tac Toe game implemented in C++ using the minimax algorithm for AI decision-making. This project is perfect for learning C++ game development and exploring AI concepts.
 
+![Game Preview](./images/1.png)
+![Game Preview](./images/2.png)
+
 ## Table of Contents
 
 - [Overview](#overview)
