@@ -69,10 +69,10 @@ Contributions are welcome! To contribute:
     git checkout -b feature/your-feature-name.
 3. Make your changes and commit them.
     ```bash
-    git commit -m 'Add some feature' .
+    git commit -m 'Add some feature'.
 4. Push to your branch.
     ```bash
-    git push origin feature/your-feature-name . 
+    git push origin feature/your-feature-name. 
 
 ## License
 Distributed under the MIT License. See [LICENSE](License) for more details.
