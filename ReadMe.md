@@ -1,5 +1,5 @@
 # Tic Tac Toe in C++ 🎮
-[![C++ Version](https://img.shields.io/badge/C++-17%2B-blue.svg)](https://isocpp.org/)
+[![C++ Version](https://img.shields.io/badge/C++-23%2B-blue.svg)](https://isocpp.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 A simple, classic Tic Tac Toe game implemented in C++ using the minimax algorithm for AI decision-making. This project is perfect for learning C++ game development and exploring AI concepts.
 
@@ -73,4 +73,5 @@ Contributions are welcome! To contribute:
     git push origin feature/your-feature-name
 
 ## License
-    Distributed under the MIT License. See LICENSE for more details.
+Distributed under the MIT License. See LICENSE for more details.
+
