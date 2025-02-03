@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/elshahat/Documents/Tic-Tac-Toe/build",
+  "command": "/usr/bin/c++  -I/home/elshahat/Documents/Tic-Tac-Toe/include -g -std=gnu++23 -o CMakeFiles/Tic-Tac-Toe.dir/src/Game.cpp.o -c /home/elshahat/Documents/Tic-Tac-Toe/src/Game.cpp",
+  "file": "/home/elshahat/Documents/Tic-Tac-Toe/src/Game.cpp",
+  "output": "CMakeFiles/Tic-Tac-Toe.dir/src/Game.cpp.o"
+},
+{
+  "directory": "/home/elshahat/Documents/Tic-Tac-Toe/build",
+  "command": "/usr/bin/c++  -I/home/elshahat/Documents/Tic-Tac-Toe/include -g -std=gnu++23 -o CMakeFiles/Tic-Tac-Toe.dir/src/HumanPlayer.cpp.o -c /home/elshahat/Documents/Tic-Tac-Toe/src/HumanPlayer.cpp",
+  "file": "/home/elshahat/Documents/Tic-Tac-Toe/src/HumanPlayer.cpp",
+  "output": "CMakeFiles/Tic-Tac-Toe.dir/src/HumanPlayer.cpp.o"
+},
+{
+  "directory": "/home/elshahat/Documents/Tic-Tac-Toe/build",
+  "command": "/usr/bin/c++  -I/home/elshahat/Documents/Tic-Tac-Toe/include -g -std=gnu++23 -o CMakeFiles/Tic-Tac-Toe.dir/src/AiPlayer.cpp.o -c /home/elshahat/Documents/Tic-Tac-Toe/src/AiPlayer.cpp",
+  "file": "/home/elshahat/Documents/Tic-Tac-Toe/src/AiPlayer.cpp",
+  "output": "CMakeFiles/Tic-Tac-Toe.dir/src/AiPlayer.cpp.o"
+},
+{
+  "directory": "/home/elshahat/Documents/Tic-Tac-Toe/build",
+  "command": "/usr/bin/c++  -I/home/elshahat/Documents/Tic-Tac-Toe/include -g -std=gnu++23 -o CMakeFiles/Tic-Tac-Toe.dir/src/main.cpp.o -c /home/elshahat/Documents/Tic-Tac-Toe/src/main.cpp",
+  "file": "/home/elshahat/Documents/Tic-Tac-Toe/src/main.cpp",
+  "output": "CMakeFiles/Tic-Tac-Toe.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/elshahat/Documents/Tic-Tac-Toe/build",
+  "command": "/usr/bin/c++  -I/home/elshahat/Documents/Tic-Tac-Toe/include -g -std=gnu++23 -o CMakeFiles/Tic-Tac-Toe.dir/src/Player.cpp.o -c /home/elshahat/Documents/Tic-Tac-Toe/src/Player.cpp",
+  "file": "/home/elshahat/Documents/Tic-Tac-Toe/src/Player.cpp",
+  "output": "CMakeFiles/Tic-Tac-Toe.dir/src/Player.cpp.o"
+}
+]
