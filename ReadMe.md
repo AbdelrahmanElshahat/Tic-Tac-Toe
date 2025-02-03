@@ -28,7 +28,6 @@ This repository includes:
 - **Multiple Game Modes:** Choose between Human vs Human, Human vs AI, or AI vs AI.
 - **Command-Line Interface:** Play directly from your terminal.
 - **Win Detection:** Automatically checks for wins, losses, and draws.
-- **Clean Code:** Well-commented code that’s ideal for beginners and those interested in AI.
 
 ## Installation
 
